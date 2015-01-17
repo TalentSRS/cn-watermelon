@@ -1,0 +1,9 @@
+title: Watermelon
+tags:
+ - Beginner
+ - Story
+description: Chinese children's story about delicious watermelons.
+units:
+ - title: xi gua
+   content: blah blah
+   stencils: unit1.yaml

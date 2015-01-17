@@ -1,0 +1,254 @@
+- chinese: 好多了。
+  english:
+  - It's better.
+  type: chinese
+  comment: ! 'Covers: 好多. Cost: 0.0'
+- chinese: 真好！
+  english:
+  - Great!
+  type: chinese
+  comment: ! 'Covers: 好. Cost: 0.0'
+- chinese: 我拉肚子。
+  english:
+  - I have diarrhea.
+  type: chinese
+  comment: ! 'Covers: 拉肚子. Cost: 0.0'
+- chinese: 我是Tom Hunter。
+  english:
+  - I'm Tom Hunter.
+  type: chinese
+  comment: ! 'Covers: 是. Cost: 0.0'
+- chinese: 你是我妈妈。
+  english:
+  - You are my mother.
+  type: chinese
+  comment: ! 'Covers: 妈妈. Cost: 2.522176870679669e-5'
+- chinese: 你有吗？
+  english:
+  - Do you have one?
+  type: chinese
+  comment: ! 'Covers: 有. Cost: 1.3462392805697285e-4'
+- chinese: 有人吗？
+  english:
+  - Is anybody here?
+  type: chinese
+  comment: ! 'Covers: 有人. Cost: 1.3462392805697285e-4'
+- chinese: 我不能说。
+  english:
+  - I can't say.
+  type: chinese
+  comment: ! 'Covers: 我. Cost: 0.0'
+- chinese: 我会想你。
+  english:
+  - I'll miss you.
+  type: chinese
+  comment: ! 'Covers: 会. Cost: 2.522176870679669e-5'
+- chinese: 我想吃
+  english:
+  - I would like to eat.
+  type: chinese
+  comment: ! 'Covers: 想. Cost: 0.0'
+- chinese: 我喜欢吃。
+  english:
+  - I like to eat.
+  type: chinese
+  comment: ! 'Covers: 吃. Cost: 0.0'
+- chinese: 你要吃什么。
+  english:
+  - What do you want to eat?
+  type: chinese
+  comment: ! 'Covers: 要. Cost: 1.4183552185543556e-4'
+- chinese: 你最喜欢什么水果？
+  english:
+  - What fruit do you like the best?
+  type: chinese
+  comment: ! 'Covers: 最. Cost: 1.4183552185543556e-4'
+- chinese: 你要吃点瓜吗?
+  english:
+  - Would you like some melon?
+  type: chinese
+  comment: ! 'Covers: 瓜. Cost: 4.3193932116416286e-4'
+- chinese: 我很喜欢吃西瓜。
+  english:
+  - I like to eat watermelon.
+  type: chinese
+  comment: ! 'Covers: 西瓜. Cost: 1.672442166949867e-4'
+- chinese: 我要多很多。
+  english:
+  - I want a lot more.
+  - I want much more.
+  type: chinese
+  comment: ! 'Covers: 多. Cost: 1.672442166949867e-4'
+- chinese: 我可以吃一口吗？
+  english:
+  - Can I have a bite?
+  type: chinese
+  comment: ! 'Covers: 一口. Cost: 4.23578048491215e-4'
+- chinese: 我怕摔倒。
+  english:
+  - I'm afraid to fall.
+  type: chinese
+  comment: ! 'Covers: 摔倒. Cost: 7.633005114113427e-3'
+- chinese: 我说的是真的。
+  english:
+  - What I'm saying is true.
+  type: chinese
+  comment: ! 'Covers: 的. Cost: 0.0'
+- chinese: 我想吃点甜的东西。
+  english:
+  - I feel like eating something sweet.
+  type: chinese
+  comment: ! 'Covers: 甜. Cost: 8.79863445193306e-4'
+- chinese: 我狗是白色的。
+  english:
+  - My dogs are white.
+  type: chinese
+  comment: ! 'Covers: 白色. Cost: 2.840989800846615e-3'
+- chinese: 球是圆的。
+  english:
+  - Balls are round.
+  type: chinese
+  comment: ! 'Covers: 圆. Cost: 4.710981297404249e-3'
+- chinese: 他是一个 DJ 。
+  english:
+  - He's a DJ.
+  type: chinese
+  comment: ! 'Covers: 一. Cost: 8.436127547499615e-5'
+- chinese: 她有绿色的眼睛。
+  english:
+  - She has green eyes.
+  type: chinese
+  comment: ! 'Covers: 绿色. Cost: 5.9133108627520544e-3'
+- chinese: 她指甲鲜红.
+  english:
+  - Her finger-nails were blood-red.
+  type: chinese
+  comment: ! 'Covers: 鲜红. Cost: 6.0024009603841535e-2'
+- chinese: 我不觉得她像她妈妈。
+  english:
+  - I don't think she takes after her mother.
+  - I don't think that she looks like her mother.
+  type: chinese
+  comment: ! 'Covers: 像. Cost: 6.571683928289785e-4'
+- chinese: 我哭了整个晚上。
+  english:
+  - I cried all night.
+  type: chinese
+  comment: ! 'Covers: 整个. Cost: 8.798169980644026e-3'
+- chinese: 他故意踩我的脚。
+  english:
+  - He stepped on my foot on purpose.
+  type: chinese
+  comment: ! 'Covers: 踩. Cost: 1.8604651162790697e-2'
+- chinese: 他进了自己房间。
+  english:
+  - He entered his room.
+  type: chinese
+  comment: ! 'Covers: 进. Cost: 4.6539768231954205e-3'
+- chinese: 喜欢什么就随便吃吧。
+  english:
+  - Help yourself to anything you like.
+  type: chinese
+  comment: ! 'Covers: 随便. Cost: 1.7284531036103928e-4'
+- chinese: 我看了看周围。
+  english:
+  - I looked around me.
+  type: chinese
+  comment: ! 'Covers: 周围. Cost: 3.271362817035949e-4'
+- chinese: 我真的很喜欢他, 可是我不喜欢他周围的朋友。
+  english:
+  - I really like him, but not his circle of friends.
+  type: chinese
+  comment: ! 'Covers: 可是. Cost: 1.2894075172458256e-3'
+- chinese: 我没看到人。
+  english:
+  - I didn't see anybody.
+  - I didn't see anyone.
+  type: chinese
+  comment: ! 'Covers: 到. Cost: 3.271362817035949e-4'
+- chinese: 我看过了, 但是没看到什么东西。
+  english:
+  - I looked, but I didn't see anything.
+  type: chinese
+  comment: ! 'Covers: 但是. Cost: 8.79863445193306e-4'
+- chinese: ! 'Jenny: 你在吃什么?
+
+    Ken: 我在吃|水果。
+
+    Jenny: 好吃吗?
+
+    Ken: 好吃。
+
+'
+  english:
+  - ! 'What are you eating?
+
+    I’m eating fruit.
+
+    Is it good?
+
+    It’s good.
+
+'
+  type: chinese
+  comment: ! 'Covers: 水果. Cost: 1.4183552185543556e-4'
+- chinese: 不要坐在上面。
+  english:
+  - Don't sit upon it.
+  type: chinese
+  comment: ! 'Covers: 上面. Cost: 2.361777001015564e-3'
+- chinese: 你坐在Meg和我的中间。
+  english:
+  - You are sitting between Meg and me.
+  type: chinese
+  comment: ! 'Covers: 中间. Cost: 2.361777001015564e-3'
+- chinese: 我可不太知道。
+  english:
+  - I don't really know.
+  type: chinese
+  comment: ! 'Covers: 可. Cost: 5.149038931883364e-4'
+- chinese: 因为它太大了。
+  english:
+  - It's because it's too big.
+  type: chinese
+  comment: ! 'Covers: 因为. Cost: 7.444685983145231e-4'
+- chinese: 我把我知道的都告诉你吧。
+  english:
+  - I'll tell you all I know about it.
+  type: chinese
+  comment: ! 'Covers: 把. Cost: 5.47948207935386e-4'
+- chinese: 你如果咬我，我也要咬你。
+  english:
+  - If you bite me, then I'll bite you, too.
+  type: chinese
+  comment: ! 'Covers: 咬. Cost: 4.3899312536765673e-4'
+- chinese: 我问了 Tony 一条问题。
+  english:
+  - I asked Tony a question.
+  type: chinese
+  comment: ! 'Covers: 条. Cost: 1.6400164001640015e-3'
+- chinese: 这个西瓜我们还没有吃完。
+  english:
+  - We haven't finished eating the watermelon yet.
+  type: chinese
+  comment: ! 'Covers: 吃完. Cost: 3.6440625466895515e-4'
+- chinese: 他一口气喝完了那一大杯。
+  english:
+  - He emptied the glass at on draft.
+  type: chinese
+  comment: ! 'Covers: 一口气. Cost: 4.448596467814404e-3'
+- chinese: 这个瓶上的密封纸破开了。
+  english:
+  - The seal on this bottle is broken.
+  type: chinese
+  comment: ! 'Covers: 破开. Cost: 0.19607843137254904'
+- chinese: 这件事让他丢了工作。
+  english:
+  - That cost him his job.
+  type: chinese
+  comment: ! 'Covers: 丢. Cost: 1.7143542884572528e-3'
+- chinese: 他皮笑肉不笑地和我打了招呼.
+  english:
+  - He greeted me with a greasy smile.
+  type: chinese
+  comment: ! 'Covers: 皮. Cost: 3.852080123266564e-2'
