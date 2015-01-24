@@ -4,6 +4,6 @@ tags:
  - Story
 description: Chinese children's story about delicious watermelons.
 units:
- - title: xi gua
+ - title: 西瓜
    content: watermelon.txt
    stencils: unit1.yaml
