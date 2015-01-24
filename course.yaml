@@ -3,6 +3,7 @@ tags:
  - Beginner
  - Story
 description: Chinese children's story about delicious watermelons.
+image: watermelon.jpg
 units:
  - title: 西瓜
    content: watermelon.txt
